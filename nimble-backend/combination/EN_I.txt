@@ -1,0 +1,14 @@
+SUMMARY: 
+Packaging waste is a major contributor to household waste, making up 50% of the total volume and 30% of the total weight. Separate collection of glass and paper waste has been successful, but plastic packaging has not been collected separately due to a lack of acceptable marketing opportunities. In response, the federal government has taken on the problem by privatizing the disposal of all packaging waste.
+
+------
+BULLETPOINTS: 
+-Packaging waste contributes to 50% of household waste by volume and 30% by weight
+-Separate collection of waste glass and paper has been successful
+-Plastic packaging has not been collected separately due to lack of acceptable marketing opportunities
+-Federal government has taken on the problem by privatizing the disposal of all packaging waste
+
+
+
+
+------

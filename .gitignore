@@ -1,0 +1,5 @@
+node_modules/
+birddata/
+.DS_Store
+config.js
+.idea

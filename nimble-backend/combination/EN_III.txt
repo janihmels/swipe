@@ -1,0 +1,39 @@
+SUMMARY: 
+The Environment Minister and Chancellor felt compelled to revive the quasi-dead Low Value Packaging (LVP) division due to fear that its failure would drag other areas into the abyss. To rescue the system, they drastically reduced the ambitious percentage recycling obligation laid down by her predecessor, replaced the reference value "put on the market" with "recorded" quantity, gave cumulative quota reduction retroactive effect, legally recognized thermal treatment of residual waste in classic waste incinerators as recycling, and called into question the usefulness of separate recording. This lack of prospects for enforcing licensing and recycling targets for all areas of packaging waste, omission of minimum energy decoupling for recognition as energetic recovery when using LVP in classic waste incineration plants, and initial impression given by figures not meaning actual recycling led to EU correcting figures downwards. UBA statistics show great efforts to achieve precision with numbers up to the decimal point, percentages referring to materials recorded rather than IVB quantities, and effort for recording and organizational processing not reflected in figures. The climate crisis makes this effort indispensable. 89% of plastic packaging is made from new material, 5% from equivalent recyclate, and 6% from inferior recyclate. Collection, separation, cleaning, processing and transport of recyclables must be taken into account to determine the true environmental impact of recycling; documentation is necessary to ensure that recycling is truly beneficial for the planet; inferior material recycling may be more ecologically beneficial due to minimal effort.
+
+------
+BULLETPOINTS: 
+-Environment Minister and Chancellor felt compelled to revive a quasi-dead horse (LVP division)
+-Fear that failure of LVP division would drag other areas into the abyss
+-Rescue of the system was highly problematic
+
+
+-Drastically reduced the ambitious percentage recycling obligation laid down by her predecessor
+-Replaced the reference value "put on the market" with "recorded" quantity
+-Gave cumulative quota reduction retroactive effect
+-Legal recognition of thermal treatment of residual waste in classic waste incinerators as recycling
+-Heat extraction of 11MJ/kg
+-Called into question the usefulness of separate recording
+
+
+-Lack of prospects for enforcing licensing and recycling targets for all areas of packaging waste
+-Omission of minimum energy decoupling for recognition as energetic recovery when using LVP in classic waste incineration plants
+-Initial impression given by figures does not mean actual recycling
+-EU has since corrected figures downwards
+
+
+-UBA statistics show great efforts to achieve precision, with numbers up to the decimal point
+-Percentages do not refer to IVB quantities, but to materials recorded
+-Effort for recording and organizational processing not reflected in figures
+-Climate crisis makes this effort indispensable
+
+
+-89% of plastic packaging is made from new material, 5% from equivalent recyclate, and 6% from inferior recyclate
+-Collection, separation, cleaning, processing and transport of recyclables must be taken into account to determine the true environmental impact of recycling
+-Documentation is necessary to ensure that recycling is truly beneficial for the planet
+-Inferior material recycling may be more ecologically beneficial due to minimal effort
+
+
+
+
+------
